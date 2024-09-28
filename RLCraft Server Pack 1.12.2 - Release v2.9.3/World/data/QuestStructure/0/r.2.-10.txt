@@ -1,0 +1,6 @@
+StoneLeafMound,1067,1076,-5302,-5295
+StonePlantMound2,1072,1085,-5183,-5171
+MeteorSite,1095,1125,-5447,-5432
+WoodWallRemains,1097,1105,-5432,-5404
+SmallWoodenCottage1,1131,1142,-5434,-5428
+StoneLeafMound,1139,1148,-5255,-5248

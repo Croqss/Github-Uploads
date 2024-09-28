@@ -1,0 +1,10 @@
+IceThorn,7959,7985,-9483,-9468
+SmallOutpost,7832,7862,-9362,-9340
+RLCraft_AgentStarbuck_VikingHouse,7968,8003,-9561,-9512
+IceThorn2,7911,7923,-9573,-9563
+StonePlantMound4,7989,7996,-9301,-9294
+StonePlantMound4,7743,7750,-9347,-9340
+AbandonedWoodTower,7996,8026,-9302,-9266
+RLCraft_DecentZombie,8050,8050,-9289,-9289
+RLCraft_UndergroundRuin2,8045,8055,-9291,-9284
+StonePlantMound4,7762,7769,-9290,-9283

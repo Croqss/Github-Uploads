@@ -1,0 +1,3 @@
+WoodWallRemains,-6161,-6133,1815,1823
+MysticalTree,-6157,-6142,2016,2032
+ForestBeacon,-6158,-6150,1926,1934

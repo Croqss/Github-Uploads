@@ -1,0 +1,5 @@
+StoneIceBoulder3,-8004,-7994,-5114,-5104
+StoneIceBoulder1,-7897,-7887,-5070,-5060
+StoneIceBoulder,-7941,-7931,-5044,-5035
+RLCraft_UndergroundFarm,-8015,-7972,-5013,-4971
+StoneIceBoulder2,-8058,-8049,-5036,-5027

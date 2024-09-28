@@ -1,0 +1,6 @@
+RLCraft_DecentZombie,8648,8648,-8541,-8541
+RLCraft_UndergroundRuin2,8643,8650,-8546,-8536
+RLCraft_DecentCaveSpider,8579,8579,-8559,-8559
+RLCraft_UndergroundRuin2,8574,8584,-8561,-8554
+WoodWallRemains,8553,8581,-8516,-8508
+StonePlantMound3,8565,8574,-8473,-8462

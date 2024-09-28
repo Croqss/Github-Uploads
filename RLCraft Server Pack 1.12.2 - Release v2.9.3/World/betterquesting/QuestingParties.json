@@ -1,0 +1,26 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "ec34711d-b29a-30e6-b9d8-9595b3811c21",
+          "status:8": "OWNER"
+        },
+        "1:10": {
+          "uuid:8": "d54f1615-9b11-3533-8632-adcd4dce4920",
+          "status:8": "MEMBER"
+        },
+        "2:10": {
+          "uuid:8": "2cdd457e-3e16-371e-b5f0-65c870d2ef5a",
+          "status:8": "MEMBER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "croqs"
+        }
+      }
+    }
+  }
+}

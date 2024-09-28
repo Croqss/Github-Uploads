@@ -1,0 +1,5 @@
+RLCraft_BasicSkeleton,-8385,-8385,7565,7565
+RLCraft_UndergroundRuin1,-8391,-8382,7562,7571
+RLCraft_UndergroundFarm,-8359,-8316,7589,7631
+RLCraft_DecentWitch,-8530,-8530,7462,7462
+RLCraft_UndergroundRuin2,-8532,-8525,7457,7467

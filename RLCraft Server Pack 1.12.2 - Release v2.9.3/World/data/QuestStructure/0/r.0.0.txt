@@ -1,0 +1,11 @@
+StonePlantMound,81,86,390,395
+StonePlantMound1,131,137,432,438
+StonePlantMound,169,174,442,447
+StonePlantBoulder,208,218,402,412
+MeteorSite,242,272,404,419
+RLCraft_DecentSkeleton,305,305,159,159
+RLCraft_UndergroundRuin2,300,310,157,164
+VillageWoodMill,306,319,198,214
+AbandonedWoodTower,278,314,363,393
+VillageMarketplace,342,356,174,188
+P_VillageFarmhouse,342,354,221,233

@@ -1,0 +1,5 @@
+RLCraft_DecentSpider,-999,-999,1931,1931
+RLCraft_UndergroundRuin3,-1002,-994,1925,1933
+ShrineSmallAir,-938,-930,1918,1926
+ShrineSmallAir,-921,-913,1935,1943
+StonePlantMound2,-943,-930,1859,1871

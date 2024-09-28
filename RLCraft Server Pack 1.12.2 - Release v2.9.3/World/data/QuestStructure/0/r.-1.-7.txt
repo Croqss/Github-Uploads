@@ -1,0 +1,17 @@
+FallenPalmTree,-720,-716,-4095,-4085
+ShrineSmallAir,-948,-940,-4053,-4045
+VillageGuardTower,-947,-935,-4046,-4034
+P_VillageFarmhouse,-970,-958,-4033,-4021
+SeasonsGreenhouse,-947,-935,-4029,-4019
+SeasonsGreenhouse,-995,-985,-4010,-3998
+P_Village2Story,-947,-941,-4010,-3997
+RLCraft_Vineyard,-963,-935,-3982,-3962
+UndergroundCultChamber,-971,-929,-4007,-3975
+VillageForgeLarge,-1001,-985,-3973,-3961
+SmallClockworkSite,-861,-839,-3895,-3876
+RLCraft_Lyquix,-960,-944,-3798,-3782
+StonePlantMound,-787,-782,-3779,-3774
+DesertBeacon,-765,-759,-3935,-3929
+DinosaurSkull,-781,-762,-4049,-4038
+StonePlantMound2,-756,-743,-3838,-3826
+AbandonedWoodTower,-817,-787,-3771,-3735

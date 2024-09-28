@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,8745,8745,-8682,-8682
+RLCraft_UndergroundRuin3,8740,8748,-8688,-8680
+DinosaurSkeleton,8769,8815,-8527,-8518
+RLCraft_SmallUndergroundSkeleton,8809,8817,-8581,-8573

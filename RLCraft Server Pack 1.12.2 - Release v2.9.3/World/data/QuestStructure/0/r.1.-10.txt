@@ -1,0 +1,14 @@
+ShrineSmallAir,890,898,-5336,-5328
+StonePlantMound2,854,867,-5365,-5353
+PeacefulCrypt,838,862,-5195,-5179
+StonePlantMound3,875,886,-5158,-5149
+DinosaurSkeleton,924,970,-5354,-5345
+RLCraft_DecentSkeleton,888,888,-5434,-5434
+RLCraft_UndergroundRuin3,882,890,-5439,-5431
+StonePlantMound1,903,909,-5445,-5439
+StonePlantMound3,970,979,-5170,-5159
+RLCraft_DecentSpider,888,888,-5450,-5450
+RLCraft_UndergroundRuin2,883,890,-5455,-5445
+StoneLeafMound,897,906,-5453,-5446
+StonePlantMound4,996,1003,-5150,-5143
+StonePlantMound2,976,988,-5148,-5135
